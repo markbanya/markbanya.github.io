@@ -255,9 +255,8 @@ body {
 
 #clock
 {
-    position:absolute;
-   
-    top: 10%;
-    
+    position:relative;
+    margin-left: 65%;
+    margin-top: -48%;
 
 }
