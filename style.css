@@ -253,8 +253,11 @@ body {
     left: 6%;
 }
 
-#canvas {
-    position: absolute;
-    left: 260%;
-    top: 0%;
+#clock
+{
+    position:absolute;
+    left: 65%;
+    top: 10%;
+    
+
 }
